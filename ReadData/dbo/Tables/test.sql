@@ -1,4 +1,4 @@
 ﻿CREATE TABLE [dbo].[test] (
-    [name] VARCHAR (20) NULL
+    [name] VARCHAR (200) NULL
 );
 
